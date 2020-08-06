@@ -1,0 +1,17 @@
+.card-img-top {
+  width: 100%;
+  height: 229px;
+  object-fit: cover;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+textarea {
+  resize: none;
+}
